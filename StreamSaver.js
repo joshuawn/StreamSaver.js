@@ -17,7 +17,7 @@
 		}
 	}
 
-	streamSaver.mitm = 'https://jimmywarting.github.io/StreamSaver.js/mitm.html?version=' +
+	streamSaver.mitm = 'https://joshuawn.github.io/mitm.html?version=' +
 		streamSaver.version.full
 
 	try {
