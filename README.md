@@ -1,6 +1,7 @@
 StreamSaver.js
 ==============
 
+
 [![npm version][npm-image]][npm-url]
 
 First I want to thank [Eli Grey][1] for a fantastic work implementing the
